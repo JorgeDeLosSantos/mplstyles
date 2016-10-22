@@ -6,7 +6,7 @@ import matplotlib as mpl
 import glob
 import os.path
 import shutil
-import argparse
+import argparse, sys
 
 parser = argparse.ArgumentParser()
 parser.add_argument('-install', action='store_true', default=True)
@@ -32,3 +32,4 @@ for _path_file in style_files:
         print("%s style already exists (use -upgrade to upgrade)"%(fname))
     else:
         pass # ¿?
+

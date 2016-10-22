@@ -1,0 +1,59 @@
+lines.linewidth: 1
+lines.color: FF00FF
+lines.antialiased: True
+lines.markersize: 7.0
+
+patch.linewidth: 0.5
+patch.facecolor: 348ABD
+patch.edgecolor: AEAEFF
+patch.antialiased: True
+
+# font.family: Helvetica
+font.size: 12.0
+
+axes.facecolor: FEFEFE
+axes.edgecolor: DADADA
+axes.linewidth: 1.0
+axes.grid: True
+axes.titlesize: x-large
+axes.titleweight: bold
+axes.labelsize: large
+axes.labelcolor: 070707
+axes.axisbelow: True
+axes.color_cycle: 348ABD, E24A33, 988ED5, 777777, FBC15E, 8EBA42, FFB5B8
+
+grid.color: DEDEDE
+grid.linestyle: dashed
+
+xtick.major.size: 0.0
+xtick.minor.size: 0.0
+xtick.major.pad: 6.0
+xtick.minor.pad: 6.0
+xtick.color: 09202D
+xtick.direction: in
+xtick.labelsize: 14
+
+ytick.major.size: 0.0
+ytick.minor.size: 0.0
+ytick.major.pad: 6.0
+ytick.minor.pad: 6.0
+ytick.color: 09202D
+ytick.direction: in
+ytick.labelsize: 14
+
+legend.fancybox: True
+legend.numpoints: 1
+legend.frameon: True
+legend.framealpha: 0.9
+legend.shadow: False
+
+text.color: 182932
+# text.usetex: True
+
+figure.facecolor: FEFEFE
+figure.edgecolor: FEFEFE
+figure.subplot.hspace: 0.5
+
+savefig.facecolor: FEFEFE
+savefig.edgecolor: FEFEFE
+
