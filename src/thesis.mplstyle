@@ -8,7 +8,7 @@ patch.facecolor: 348ABD
 patch.edgecolor: AEAEFF
 patch.antialiased: True
 
-font.family: Nimbus Roman No9 L
+font.family: DejaVu Serif
 font.size: 12.0
 
 axes.facecolor: FEFEFE
@@ -48,7 +48,7 @@ legend.framealpha: 0.9
 legend.shadow: False
 
 text.color: 182932
-text.usetex: True
+text.usetex: False
 
 figure.facecolor: FEFEFE
 figure.edgecolor: FEFEFE
